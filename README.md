@@ -4,11 +4,11 @@
 
 I am a backend developer focused on building scalable REST APIs, automation tools, and working with databases. I actively integrate AI tools into my development workflow to deliver results faster and more efficiently.
 
-- 🔭 Currently working on improving my skills in **Django**, **FastAPI**, and **Docker**.
-- 🌱 Exploring **AI-Agent workflows** (ChatGPT, DeepSeek, Arena.ai Agent Mode) for full-cycle development.
-- 💬 Ask me about **Python, Django, DRF, PostgreSQL, Celery, Docker.**
-- 📫 How to reach me: **[Telegram](https://t.me/TheBalaxon)** | **[Email](mailto:homeFlay@gmail.com)**
-- 🌍 Languages: **English (C1)** — open to international remote opportunities.
+- Currently working on improving my skills in **Django**, **FastAPI**, and **Docker**.
+- Exploring **AI-Agent workflows** (ChatGPT, DeepSeek, Arena.ai Agent Mode) for full-cycle development.
+- Ask me about **Python, Django, DRF, PostgreSQL, Celery, Docker.**
+- How to reach me: **[Telegram](https://t.me/TheBalaxon)** | **[Email](mailto:homeFlay@gmail.com)**
+- Languages: **English (C1)** — open to international remote opportunities.
 
 ---
 
@@ -26,7 +26,7 @@ I am a backend developer focused on building scalable REST APIs, automation tool
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 📚 [LibraryAPI](https://github.com/GrandBalaxon/LibraryAPI)
 A comprehensive REST API for library management (Django, DRF). Features a 3-tier architecture (Work -> Edition -> BookCopy), JWT authentication, role-based access, audit trails (django-simple-history), and Docker/CI/CD integration.
