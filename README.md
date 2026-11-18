@@ -1,13 +1,13 @@
 # Hi there, I'm Vladislav! 👋
 
-### 🐍 Junior Python Developer: backend and data
+### 🐍 Junior Python Developer: Backend & Data
 
-I'am primarily a backend developer focused on building scalable REST APIs, automation tools, and working with databases.
-But I also can build an ETL pipeline with Python and PostgreSQL.
-I do care about tests, Docker setups and CI in my projects.
+I'm primarily a backend developer focused on building scalable REST APIs and automation tools, as well as working with databases.
+I can also build ETL pipelines with Python and PostgreSQL.
+I care about tests, Docker setups, and CI in my projects.
 
 - Currently working on improving my skills in **SQL**, **Django**, **FastAPI**, and **Docker**.
-- Ask me about **Python, Django, DRF, PostgreSQL, SQL, pandas, Celery, Docker.**
+- Ask me about **Python, Django, DRF, PostgreSQL, SQL, pandas, Celery, Docker**.
 - How to reach me: **[Telegram](https://t.me/TheBalaxon)** | **[Email](mailto:homeFlay@gmail.com)**
 - Languages: **English (C1)**, open to international remote opportunities.
 
